@@ -1,38 +1,30 @@
 body {
     background-color: rgb(132, 132, 226);
 }  
-
 #main {
     display: flex;
 }
-
 #sub {
     height: 300px;
     width: 400px;
     background-color: rgb(221, 255, 1);
-    margin: 130px 0px 0px 400px;
-    
+    margin: 130px 0px 0px 560px;
     border-radius: 4%;
-
 }
-
 #heading {
     height: 110px;
     width: 100px;
     padding-left: 100px;
     margin-top: 50px;
 }
-
 #boxes {
     height: 15%;
     width: 80%;
    margin: auto;
 }
-
 #boxes a {
     border: 1px solid black;
-    padding: 25px;
+    padding: 20px;
     text-decoration: none;
-
 }
 

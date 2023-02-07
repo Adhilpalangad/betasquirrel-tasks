@@ -38,9 +38,9 @@ Asignments and Tasks
 
  
  
-## Task 3
+## Task-3
 
-Read and understand
+Read and Understand
 
 - [HTML HOME](https://www.w3schools.com/html/default.asp)
 - [HTML Introduction](https://www.w3schools.com/html/html_intro.asp)
@@ -63,9 +63,9 @@ Read and understand
 
 
 
-## Task 5
+## Task-5
 
-Read and understand
+Read and Understand
 
 - [HTML Favicon](https://www.w3schools.com/html/html_favicon.asp)
 - [HTML Tables](https://www.w3schools.com/html/html_tables.asp)
