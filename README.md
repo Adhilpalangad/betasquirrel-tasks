@@ -16,6 +16,8 @@ Asignments and Tasks
 - `ls -a` - show hidden files in directory.
 - `pwd` - show  current working directory.
 - `cat` - show contents in file. Ex: `cat filename`
+- `mkdir` - New Directory (Folder) `mkdir directoryname`
+- `clear` - Clear
 
 ## git comments
 
